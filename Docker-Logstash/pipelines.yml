@@ -1,0 +1,11 @@
+- pipeline.id: tab_staff_info
+
+  path.config: "/usr/share/logstash/logstashconf/pipeline/tab_staff_info.conf"
+
+- pipeline.id: tab_staff_education
+
+  path.config: "/usr/share/logstash/logstashconf/pipeline/tab_staff_education.conf"
+
+- pipeline.id: tab_staffinfo_stafflocation
+
+  path.config: "/usr/share/logstash/logstashconf/pipeline/tab_staffinfo_stafflocation.conf"
